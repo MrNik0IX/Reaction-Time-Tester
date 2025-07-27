@@ -8,6 +8,8 @@ import javafx.stage.Stage;
 public class Main {
 
 	public static void main(String[] args) {
+		//Initialize Application.
+		
 		//Start the View of the program.
 		View.launch(View.class);
 

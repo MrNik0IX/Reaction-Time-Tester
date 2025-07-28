@@ -1,5 +1,5 @@
 package com.mrnik.controller;
 
-public class controller {
+public class Controller {
 
 }

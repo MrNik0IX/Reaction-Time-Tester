@@ -12,6 +12,7 @@ public class Main {
 		
 		//Start the View of the program.
 		View.launch(View.class);
+		
 
 	}
 
